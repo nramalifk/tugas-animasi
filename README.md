@@ -1,6 +1,8 @@
 ## Tugas Animasi
 Mata Kuliah : Grafika Komputer
 
+Dosen : Ahmad Deni Muttaqin, S.Kom., M.Sc
+
 Prodi : Teknologi Informasi
 
 Smt/Kelas : 5 - MY3
