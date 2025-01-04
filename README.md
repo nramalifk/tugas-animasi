@@ -1,4 +1,4 @@
-# Tugas Animasi
+## Tugas Animasi
 Mata Kuliah : Grafika Komputer
 
 Prodi : Teknologi Informasi
