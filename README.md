@@ -1,7 +1,10 @@
 # Tugas Animasi
 Mata Kuliah : Grafika Komputer
+
 Prodi : Teknologi Informasi
+
 Smt/Kelas : 5 - MY3
+
 Universitas Tangerang Raya
 
 KELOMPOK MAYORA JAYANTI :
